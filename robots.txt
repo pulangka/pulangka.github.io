@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pulangka.github.io/sitemap/sitemap.txt
